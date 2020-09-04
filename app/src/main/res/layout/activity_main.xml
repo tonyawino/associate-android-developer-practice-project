@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@drawable/black_background">
+
+    <include
+        android:id="@+id/layout_main_appBarMain"
+        layout="@layout/app_bar_main"/>
+    <include
+        android:id="@+id/layout_main_contentMain"
+        layout="@layout/content_main"/>
+
+</LinearLayout>
