@@ -8,7 +8,8 @@ Libraries used include:
 1. [Retrofit](https://github.com/square/retrofit) to fetch and send data
 1. [Room](https://developer.android.com/topic/libraries/architecture/room) for caching the data locally
 1. [Glide](https://github.com/bumptech/glide) to display and cache images
-[Download APK](./screenshots/app-debug.apk)
+[Download APK](https://github.com/tonyawino/associate-android-developer-practice-project/raw/master/screenshots/app-debug.apk)
+
 ![Splash Screen](./screenshots/Screenshot_20200904-123953.jpg)
 ![Learning Leaders](./screenshots/Screenshot_20200904-124007.jpg)
 ![Skill IQ Leaders](./screenshots/Screenshot_20200904-124021.jpg)
